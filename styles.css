@@ -1,0 +1,141 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    /* background-color: #ff6f61; */
+    color: red;
+    text-align: center;
+    padding: 20px 0;
+}
+
+main {
+    padding: 20px 0;
+}
+
+#message {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color: #333; /* Adjusted text color */
+}
+
+#message p {
+    margin-bottom: 15px;
+}
+
+#message p:last-child {
+    margin-bottom: 0;
+}
+
+#gift {
+    background-color: #fff3e1;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#gift h2 {
+    color: #ff6f61;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff6f61;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #e66053;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+p {
+    color :purple;
+}
+main {
+    background-color: #ffe6f0; /* Soft Pink */
+}
+main {
+    background-color: #E4E9FD;
+    background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%);
+    font-family: 'helvetica neue';
+  }
+
+  .profile-pic {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.profile-pic img {
+    width: 150px;
+    height: auto;
+    border-radius: 16%; /* Round Image */
+    border: 1px solid #ff6f61; /* Lovely Border */
+}
+
+#message {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#message p {
+    margin-bottom: 15px;
+}
+
+#message p:last-child {
+    margin-bottom: 0;
+}
+
+#gift {
+    background-color: #fff3e1;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#gift h2 {
+    color: #ff6f61;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff6f61;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #e66053;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
